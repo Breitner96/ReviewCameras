@@ -33,9 +33,9 @@ Grades:
 ```
 {
     "autorDto":{
-        "nombre":"vladimir",
+        "nombre":"breitner",
         "telefono":"965668",
-        "email":"vladimir@gmail.com",
+        "email":"breitner@gmail.com",
         "pais":"Colombia"
     }
 }
@@ -47,8 +47,8 @@ Grades:
 {
   "autorDto": { 
     "idAutor": 6,
-    "nombre": "vladimir",
-    "email": "vladimir@gmail.com",
+    "nombre": "breitner",
+    "email": "breitner@gmail.com",
     "pais": "Colombia"
   }
 }
