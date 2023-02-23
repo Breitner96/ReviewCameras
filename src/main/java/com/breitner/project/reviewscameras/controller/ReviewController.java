@@ -3,6 +3,7 @@ package com.breitner.project.reviewscameras.controller;
 import com.breitner.project.reviewscameras.models.ReviewObtenerResponse;
 import com.breitner.project.reviewscameras.models.ReviewSaveRequest;
 import com.breitner.project.reviewscameras.models.ReviewSaveResponse;
+import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -13,6 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping(value ="/api/v1/tiendabreit", produces = MediaType.APPLICATION_JSON_VALUE)
+@Api(value = "Review Controller", description = "This API has a CRUD for Reviews")
 public class ReviewController {
 
     @Autowired
