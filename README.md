@@ -1,6 +1,6 @@
 # review-cameras-ms
 
-Micro-service about Reviews Cameras. This API was released with de domain ***LocalHost***.
+Micro Service about Reviews Cameras. This API was released with de domain ***LocalHost***.
 
 >  #aws #rest #java #reviews-cameras
 ---
